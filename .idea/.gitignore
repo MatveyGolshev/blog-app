@@ -1,0 +1,13 @@
+# Бэкенд
+backend/target/
+*.iml
+*.jar
+
+# Фронтенд
+frontend/node_modules/
+frontend/.env
+frontend/build/
+
+# Системные
+.DS_Store
+.idea/
